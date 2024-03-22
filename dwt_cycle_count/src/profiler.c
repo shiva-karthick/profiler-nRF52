@@ -1,3 +1,7 @@
+/*
+Author : @shiva-karthick
+All rights reserved.
+*/
 //-- Includes ------------------------------------------------------------------
 #include "profiler.h"
 

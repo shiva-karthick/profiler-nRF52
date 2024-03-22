@@ -1,3 +1,7 @@
+/*
+Author : @shiva-karthick
+All rights reserved.
+*/
 #ifndef __PROFILER_H
 #define __PROFILER_H
 

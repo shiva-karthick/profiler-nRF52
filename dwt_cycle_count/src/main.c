@@ -1,3 +1,7 @@
+/*
+Author : @shiva-karthick
+All rights reserved.
+*/
 #include <zephyr/kernel.h>
 #include <stdbool.h>
 #include <stddef.h>
